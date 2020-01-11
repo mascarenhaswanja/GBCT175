@@ -1,0 +1,36 @@
+title {
+	color: green;
+}
+
+
+h1#b1-h1 {
+	  border-top:  10px solid black;
+	  border-bottom: 10px solid black;
+	  background-color: blue;
+	  color: black;
+	  margin: 5px 10px 5px 10px;  /* or margin: 5px 10px; */
+	  padding: 20px;
+	  text-align: center;
+}
+
+h2#b1-h2 {
+	  border-bottom: 10px solid green;
+	  background-color: lightblue;
+	  color: black;
+	  margin: 5px 10px;
+	  padding: 10px;
+	  text-align: center;
+}
+
+h3 {
+    font-family: Georgia, Tahoma, Times, "Times New Roman", sans-serif;
+}
+
+#b1 {
+	float: left;
+	clear: both;
+}
+
+#b2 {
+	float: right;
+}

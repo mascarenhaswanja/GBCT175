@@ -1,0 +1,9 @@
+main {
+	column-count: 2;
+	column-gap: 2.5em;
+}
+body{
+    width: 60%;
+    margin-left: 20%;
+}
+
